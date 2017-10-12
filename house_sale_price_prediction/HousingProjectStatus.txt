@@ -1,0 +1,13 @@
+Dealing with Continuous variables
+
+https://www.analyticsvidhya.com/blog/2015/11/8-ways-deal-continuous-variables-predictive-modeling/
+
+Missing values treatment:
+
+for now do with 1200
+
+
+do check for correlation with saleprice (see if they are linearly related to do linear regression)
+
+
+Normalize the data for treating missing values.
