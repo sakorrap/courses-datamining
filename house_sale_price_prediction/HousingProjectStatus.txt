@@ -7,7 +7,4 @@ Missing values treatment:
 for now do with 1200
 
 
-do check for correlation with saleprice (see if they are linearly related to do linear regression)
-
-
-Normalize the data for treating missing values.
+do check for correlation with saleprice (see the relation ship).
